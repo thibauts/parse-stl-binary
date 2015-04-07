@@ -1,0 +1,22 @@
+{
+  "name": "parse-stl-binary",
+  "version": "1.0.0",
+  "description": "STL binary parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thibauts/parse-stl-binary.git"
+  },  
+  "keywords": [
+    "stl",
+    "binary",
+    "buffer",
+    "mesh",
+    "format"
+  ],
+  "author": "thibauts",
+  "license": "MIT"
+}
