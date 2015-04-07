@@ -28,8 +28,7 @@ console.log(mesh);
 {
   positions: [...],
   cells: [...],
-  faceNormals: [...],
-  name: 'solid name'
+  faceNormals: [...]
 }
 */
 ```
